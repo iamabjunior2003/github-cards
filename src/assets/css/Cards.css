@@ -1,0 +1,30 @@
+.profile-card{
+    display: inline-block;
+    border: 2px solid black;
+    box-shadow: 2px 2px 10px;
+    padding: 10px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.profile-card .profile-details{
+    margin: 20px;
+    padding: 10px;
+}
+
+.profile-card img {
+    width: 250px;
+    height: 250px;
+    
+}
+.search{
+    margin-top: 10px;
+    width: 300px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    font-size: 16px;
+    display: inline-block;
+    transition: border-color 0.3s ease;
+}
